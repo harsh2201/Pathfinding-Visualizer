@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-### [LIVE DEMO](https://baeharam.github.io/Pathfinding-Visualizer/)
+### [LIVE DEMO](https://pathfinding-visualizer.harshjobanputra.com/)
 
 <img src="./images/visualizer.gif">
 
@@ -27,7 +27,7 @@
 ## Build Guide
 
 ```bash
-git clone https://github.com/baeharam/Pathfinding-Visualizer
+git clone https://github.com/harsh2201/Pathfinding-Visualizer
 cd Pathfinding-Visualizer
 yarn install
 yarn start
